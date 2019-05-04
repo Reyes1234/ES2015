@@ -3,10 +3,9 @@
 // }
 //
 // console.log(myset_add);
+//
+// //I don't think the function was called correctly
 
-//I don't think the function was called correctly
+arr.forEach(function callback(currentValue[, index[, array]])){
 
-const set 1 = new Set ([1,2,3,4,5]);
-console.log(set1.has(1));
- console.log(set1.has(5));
-  console.log(set1.has(6));
+}[, thisArg]);
